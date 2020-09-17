@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\favourdiokpo\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(8): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+c:\users\favourdiokpo\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(84): error C4700: uninitialized local variable 'playerWin' used
+c:\users\favourdiokpo\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(97): error C4700: uninitialized local variable 'enemyWin' used
+c:\users\favourdiokpo\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(84): error C4700: uninitialized local variable 'playerY' used
+c:\users\favourdiokpo\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(84): error C4700: uninitialized local variable 'playerX' used
+c:\users\favourdiokpo\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(84): error C4700: uninitialized local variable 'playerSymbol' used
+c:\users\favourdiokpo\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(84): error C4700: uninitialized local variable 'playerNum' used
+c:\users\favourdiokpo\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(97): error C4700: uninitialized local variable 'enemyY' used
+c:\users\favourdiokpo\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(97): error C4700: uninitialized local variable 'enemyX' used
+c:\users\favourdiokpo\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(97): error C4700: uninitialized local variable 'enemySymbol' used
+c:\users\favourdiokpo\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\main.cpp(97): error C4700: uninitialized local variable 'enemyNum' used
+  Compiling...
+  Boat.cpp
+  Generating Code...
